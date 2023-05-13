@@ -40,7 +40,7 @@ linters-settings:
     sections:
     - standard
     - default
-    - prefix(github.com/kong/kubernetes-testing-framework)
+    - prefix(github.com/kong)
   gomodguard:
     blocked:
       modules:
